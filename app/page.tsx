@@ -12,4 +12,4 @@ export default async function Home() {
 }
 
 export const revalidate = 10
-export const runtime = 'edge'
+export const runtime = 'nodejs'
