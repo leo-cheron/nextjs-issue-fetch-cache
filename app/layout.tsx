@@ -6,3 +6,7 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+
+// export const dynamic = 'error'
+// export const dynamicParams = false
+// export const fetchCache = 'default-cache'
